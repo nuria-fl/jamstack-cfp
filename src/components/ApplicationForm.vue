@@ -26,7 +26,7 @@
     <Alert v-if="success" theme="success">
       Form submitted successfully! You can
       <ExternalLink
-        href="https://github.com/codegram/jamstack-cfp/actions?query=workflow%3A%22Handle+Submission%22"
+        href="https://github.com/nuria-fl/jamstack-cfp/actions?query=workflow%3A%22Handle+Submission%22"
         >check how GitHub Actions are handling your submission right
         now</ExternalLink
       >. In a few minutes, it will appear in this site, listed as a pending

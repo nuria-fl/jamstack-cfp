@@ -3,7 +3,7 @@
     <SubmissionList title="Pending submissions" :submissions="submissions">
       Pending submissions are the open
       <ExternalLink
-        href="https://github.com/codegram/jamstack-cfp/pulls?q=is%3Apr+is%3Aopen+label%3Asubmission"
+        href="https://github.com/nuria-fl/jamstack-cfp/pulls?q=is%3Apr+is%3Aopen+label%3Asubmission"
         >pull requests</ExternalLink
       >. By adding the GitHub's API as a
       <ExternalLink href="https://gridsome.org/plugins/@gridsome/source-graphql"
@@ -18,7 +18,7 @@
 <page-query>
   query {
     github {
-      repository(owner: "codegram", name: "jamstack-cfp") {
+      repository(owner: "nuria-fl", name: "jamstack-cfp") {
         pullRequests(last: 100, labels: "submission", states: OPEN) {
           edges {
             node {

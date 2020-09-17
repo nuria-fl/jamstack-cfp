@@ -7,7 +7,7 @@
       This is an example call for papers application, made to showcase how to
       make use of GitHub Actions to add user generated content to your JAMStack
       static site! Check out the
-      <ExternalLink href="https://github.com/codegram/jamstack-cfp"
+      <ExternalLink href="https://github.com/nuria-fl/jamstack-cfp"
         >repo</ExternalLink
       >.
     </p>
