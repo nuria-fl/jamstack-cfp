@@ -17,7 +17,7 @@ function preflight() {
 }
 
 function submit(data) {
-  const owner = "codegram";
+  const owner = "nuria-fl";
   const name = "jamstack-cfp";
 
   return axios.request({
