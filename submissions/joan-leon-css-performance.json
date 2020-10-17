@@ -1,0 +1,6 @@
+{
+  "date": 1602934459153,
+  "description": "La Web Performance está ganando popularidad, tanto en los departamentos técnicos como en los de producto y negocio. Mantener una web, o aplicación, rápida y ágil mejora la experiencia de usuario y aumenta los ratios de conversión.\n\nSolemos ver mucho foco en la optimización de las peticiones de recursos, la caché, protocolo HTTP/2, en las imágenes con lazy loading y responsive image, en modularizar y “bandelizar” el Javascript. Todo eso está muy bien, pero ¿qué pasa con el CSS?\n\nEn CSS tenemos margen de mejora para optimizar la performance de la web, no sólo en la carga inicial optimizando el CSS necesario en cada página, sino también en la navegación, interacciones y animaciones mientras los usuarios están en nuestra web o aplicación.\n\nEn esta charla conoceremos herramientas para detectar dónde podemos mejorar nuestro CSS, algunos trucos avanzados y ejemplos de una optimización CSS para conseguir la máxima fluidez para mejorar la experiencia de usuario. \n",
+  "name": "Joan León",
+  "title": "CSS Performance"
+}
